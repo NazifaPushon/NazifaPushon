@@ -57,7 +57,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-Mehedi%20Sarkar-blue?style=flat-square&logo=google-chrome"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-Nazifa%20Mashiat%20Pushon-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nazifa-pushon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NazifaPushon-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nazifamashiat/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nazifamashiat-blue?style=flat-square&logo=instagram"></a>
 <a href="mashiat.pushon@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-mashiat.pushon@gmail.com-blue?style=flat-square&logo=gmail"></a>
