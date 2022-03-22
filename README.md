@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NazifaPushon&label=Profile%20views&color=0e75b6&style=flat" alt="NazifaPushon" /> </p>
 
 - :computer: I just love `Exploring New Things` - and - `Quick Solutions` 🤔
-- 🎓 &nbsp; I'm student of `physics`, but my dreams brought me here.
+- 🎓 &nbsp; I'm student of `class 9`, but my dreams brought me here.
 - 🌱 &nbsp; Learning more about Web Development and Design.
 - ✍️ &nbsp; Pursuing Web Design and Article Writing as hobbies/side hustles.
 - :book: &nbsp; Favourite Line `Stay Hungry Stay Foolish`.
