@@ -47,7 +47,7 @@
 
 <br/>
 
-<a href="https://github.com/mehedisarkar2k">
+<a href="https://github.com/NazifaPushon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NazifaPushon&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazifaPushon&theme=buefy&layout=compact" />
 </a>
